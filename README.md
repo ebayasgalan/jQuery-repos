@@ -1,2 +1,3 @@
 # Accordian-slider
-This is a simple slider using javascript.
+This is a repository with collection of javascript and jquery
+
